@@ -7,7 +7,7 @@ import {
 import { SosialLinks } from "@/data/sosial-link.data";
 import { skills, tools } from "@/data/experience.data";
 
-import Hero from "@/assets/hero2.jpg"
+import Hero from "@/assets/profile.jpg"
 
 const Home = () => {
 	return (
